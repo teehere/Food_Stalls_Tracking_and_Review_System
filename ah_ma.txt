@@ -1,6 +1,0 @@
-001|Kuching Laksa (S)|13
-002|Fish Ball Noodle (S)|11
-003|Shredded Chicken Hor Fun (S)|13
-004|Nasi Lemak|13.9
-005|Lu Rou Rice|13.9
-007|loklok|10

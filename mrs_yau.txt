@@ -1,8 +1,0 @@
-001|Beef Noodles Soup|10.5
-002|Baked Chicken Cheese Rice|22.9
-003|Pork Soup With Rice|10.5
-004|Taiwan Sausage (3/pcs)|10.9
-005|Crispy Fry Dumpling|15.9
-006|Iced Latte |10.9
-007|Iced Lime Tea|5.9
-008|Iced Blueberry Yogurt|7.5

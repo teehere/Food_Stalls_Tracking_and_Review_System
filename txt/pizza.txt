@@ -1,0 +1,10 @@
+001|Ramandan special-2 regular pizzas|19.8
+002|Ramadan Deal 4 Pax Combo|39.6
+003|Mybox Pizza duo|30
+004|Hut's meal pasta 2(2Pax)|31.9
+005|Hut's meal 2(2 pax)|31.9
+006|Double Box large (5-6Pax)|58.9
+007|Aloha chicken with thousand island (L)|35.9
+008|Island Tuna with thousand island (L)|35.9
+009|Beef pepperoni with thousand island (L)|35.9
+010|BBQ chicken with thousand island (L)|35.9

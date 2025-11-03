@@ -1,0 +1,6 @@
+001|Chicken Pepperoni Pizza|35.9
+002|Aloha Chicken Pizza (Regular)|35.9
+003|Chocolate Lava Cake|12.9
+004|Honey Garlic Roasted Chicken (6/pcs)|20.9
+005|Bottle Pepsi Zero Sugar (1.5L)|7.9
+006|Bottle 7 Up (1.5L)|7.9

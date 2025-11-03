@@ -1,0 +1,10 @@
+001|White Coffee|3
+002|Oat Cereal|2.8
+003|Kopi O|2.6
+004|Teh|2.6
+005|Teh O|2.6
+006|Teh C|2.8
+007|Cham|3
+008|Horlicks|3.2
+009|Nescafe|3.5
+010|Kopi|2.8

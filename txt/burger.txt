@@ -1,0 +1,10 @@
+001|Fish N Crisp|8.5
+002|Chick N Crisp|7.3
+003|Long Chicken|10.2
+004|Tendercrisp|12.95
+005|Tendergrill|12.2
+006|Cheeseburger|8.5
+007|Double cheeseburger|12.6
+008|Whopper Jr|8.9
+009|Whopper|14.9
+010|Single BBQ Beafacon|11.3

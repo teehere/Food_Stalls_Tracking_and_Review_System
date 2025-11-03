@@ -1,0 +1,10 @@
+001|Strawberry Sundae|6
+002|Chocolate Sundae|6
+003|Brown Sugar Bubble Tea|6.5
+004|Honey Peach Milk Tea|8
+005|Iced Passion Fruit|7
+006|Lemon Black Tea|4.99
+007|Grape Bucket|12
+008|Mango Coconut Milk|9
+009|Honey Peach Coconut Milk|9
+010|Mango Milkshake|6

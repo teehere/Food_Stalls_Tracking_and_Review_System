@@ -1,0 +1,10 @@
+001|Bingsu(3 topping)|12.9
+002|Bingsu(5 topping)|14.9
+003|Snow Fungus Longan|4.9
+004|Longan Jelly|4.9
+005|Jasmine Tea|3
+006|Arno White Taro Ball|10.9
+007|Explosion Glutinous Rice Cake (Yogurt)|9.9
+008|Glutinous Rice Cake (Dipping Black Sugar)|9.9
+009|Explosion Glutinous Rice Cake|9.9
+010|Grass Jelly + Taro Balls|9.9

@@ -1,0 +1,10 @@
+001|Kerabu Rice|9.9
+002|Japanese Curry Chicken Rice|18.5
+003|Japan Chicken Rice|13.9
+004|Luncheon Meat And Scrambled Egg Rice Bowl|12.5
+005|Mushroom And Scrambled Egg Rice Bowl|13.9
+006|Curry Chicken Nasi Lemak|17.9
+007|Crunchy Chicken Chop Noodles|15.5
+008|Fried Chicken (2 Pcs)|15.5 
+009|French Fries|11.5
+010|Nestum+Kopi+Milo|6.6

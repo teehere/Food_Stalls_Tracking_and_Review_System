@@ -1,0 +1,9 @@
+001|Braised Beef Soup Noodle|20.9
+002|Pork Dumpling Soup Noodle|11.9
+003|Taiwanese Sun Bei Chicken Rice|26.9
+004|Ma Po To Fu Rice|20.9
+005|Sweet & Sour Chicken Bento|17.9
+006|SAN PIN Bento|19.9
+007|Braised Pork "PAI KU" Rice|20.9
+008|Jasmine Green Tea|3
+009|Lemon AiYu Jelly|1.9

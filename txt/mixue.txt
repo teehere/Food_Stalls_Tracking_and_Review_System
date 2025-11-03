@@ -1,0 +1,10 @@
+001|Ice Cream|2
+002|Fresh Lemonade|3
+003|Super Boba Sundae|5
+004|O-CoCo Milk Tea|6
+005|Ice Cream Toffee Hazelnut Latte|5.5
+006|Creamy Mango Boba|7
+007|Passion Fruit Bubble Tea|6
+008|Peach Mi-Shake|5
+009|Kiwi Jasmine Tea|5
+010|Classical Milk Tea|5

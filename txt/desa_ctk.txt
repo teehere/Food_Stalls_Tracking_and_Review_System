@@ -1,0 +1,10 @@
+001|Nasi Goreng|5
+002|Maggi Goreng|5
+003|Roti Canai|1.5
+004|Kuew Teow Goreng|5
+005|Nasi Ayam, Sayur|8.5
+006|French Toast|3.5
+007|Milo Ice|3
+008|Teh O Limau Ice|2.3
+009|Nescafe O|2.5
+010|Cham|2.5

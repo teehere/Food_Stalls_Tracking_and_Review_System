@@ -1,0 +1,10 @@
+001|White Peach Oolong Lemonade 1L|24.9
+002|Matcha latte 1L|33.9
+003|Spanish latte|11.2
+004|Ceo latte|9.9
+005|Zus signature Curry Puff|3.9
+006|Chicken slice & Cheese Bagel|10.9
+007|Chocolate roll|8.5
+008|Pearl white sugar|6.9
+009|Tom yum chicken puff|3.9
+010|Big brekkie croissant|10.9

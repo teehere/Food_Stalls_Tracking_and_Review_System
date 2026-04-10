@@ -10,7 +10,7 @@ FOOD_TRACK ft;
 #include <iostream>
 #include <cstdlib> // system
 #include <string>
-#include <limits> // cin.ignore
+#include <limits> // cin.ignor
 using namespace std;
 
 
